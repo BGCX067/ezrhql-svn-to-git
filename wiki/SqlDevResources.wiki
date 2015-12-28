@@ -1,0 +1,6 @@
+#summary Leads to information that may prove useful in the development of this framework.
+#labels Phase-Implementation
+
+= SQL Developer Resources =
+
+Link to a very complete [http://download.oracle.com/docs/cd/B10501_01/server.920/a96540.pdf PDF spec] of Oracle SQL syntax. Very easy to follow.

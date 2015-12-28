@@ -1,0 +1,5 @@
+#summary A "thank you" list.
+
+= Thanks to... =
+
+  * [http://cooltext.com Cool Text] for the logo
